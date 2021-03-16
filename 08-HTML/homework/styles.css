@@ -1,0 +1,15 @@
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+    display: block;
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: gold;
+    padding: 50px;
+    border-color: tomato;
+    border-width: thick;
+    border-style: solid;
+}
